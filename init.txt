@@ -1,0 +1,6 @@
+-instalar node.js
+https://nodejs.org/es/download
+
+-instalar npm
+https://www.npmjs.com/
+
